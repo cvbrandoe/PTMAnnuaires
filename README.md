@@ -11,10 +11,10 @@ Gabriela Elgarrista (Plateforme Géomatique EHESS)
 
 Carmen Brando (Plateforme Géomatique EHESS)
 
+Frédérique Mélanie-Becquet (LATTICE)
+
 Mohamed Khemakhem (Inria-ALMAnaCH)
 
 Laurent Romary (Inria-ALMAnaCH)
-
-Frédérique Mélanie-Becquet (LATTICE)
 
 Jean-Luc Pinol (ENS Lyon)
